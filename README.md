@@ -1,2 +1,2 @@
 # Web-Estudos-Alura
-<h1> Estudando pelo aite Alura </h1>
+<h1> Estudando pelo site Alura </h1>
